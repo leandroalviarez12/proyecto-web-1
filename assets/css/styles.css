@@ -14,14 +14,14 @@ body{
 
 }
 
-.alayout__video{
+.layout__video{
     width: 100%;
     height: 100%;
 
 }
 
 
-.alayout__content{
+.layout__content{
       position: absolute;
       left: 50%;
       top: 50%;
